@@ -1,0 +1,19 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulstd82/simonsays.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulstd82/simonsays/issues"
+  },
+  "homepage": "https://github.com/rahulstd82/simonsays#readme"
+}
