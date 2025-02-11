@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 20px;
+    display: inline-block;
+    font-size: 24px;
+    text-align: center;
+    line-height: 200px;
+    cursor: pointer;
+    
+  }
+  
+  #green {
+    background-color: #008000;
+  }
+  #red {
+    background-color: #FF0000;
+  }
+  #yellow {
+    background-color: #FFFF00;
+  }
+  #blue {
+    background-color: #0000FF;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    gap: 20px;
+  }
+  
+  .flash {
+    background-color: white !important;
+  }
+  
+  .game-over {
+    background-color: red;
+  }
+  
