@@ -1,7 +1,3 @@
-Here's the updated README with your Netlify link included.  
-
----
-
 # Simon Says Game  
 
 Welcome to the **Simon Says Game!** This is a classic memory-based game where players must replicate an increasingly complex sequence of colors. Test your memory and see how long you can keep up with Simon's patterns.  
